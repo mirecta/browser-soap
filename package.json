@@ -7,7 +7,6 @@
   },
   "author": "Johniak <romaniakjan@gmail.com>",
   "dependencies": {
-    "Buffer": "0.0.0",
     "node-xml": "^1.0.2"
   },
   "repository": {
